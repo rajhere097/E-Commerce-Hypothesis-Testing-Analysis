@@ -134,6 +134,5 @@ Data Storytelling
 
 👨‍💻 Author
 Ratnajit Chakraborty
-
-Aspiring Data Analyst / Data Scientist
+Data Analyst / Aspiring Data Scientist
 Skilled in Python, SQL, Power BI, Machine Learning, and Statistical Analysis
