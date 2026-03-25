@@ -133,6 +133,7 @@ Business Insight Generation
 Data Storytelling
 
 👨‍💻 Author
-Ratnajit Chakraborty
-Data Analyst / Aspiring Data Scientist
-Skilled in Python, SQL, Power BI, Machine Learning, and Statistical Analysis
+Ratnajit Chakraborty  
+Email: rajhere1997@gmail.com  
+LinkedIn: https://www.linkedin.com/in/ratnajit-chakraborty-076ab520a  
+GitHub: https://github.com/rajhere097
